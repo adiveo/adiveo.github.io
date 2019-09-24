@@ -1,3 +1,3 @@
-## Bienvenue à Adiveo
+## Adiveo
 
-Notre site est en construction ... Retrouvez nous bientôt !
+Notre site est en cours de construction ... Retrouvez nous bientôt !
